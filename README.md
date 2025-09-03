@@ -17,6 +17,18 @@
 -Update profile
 -BugFix: Sign up user displayName and profile picture updates
 -BugFix: If the user is not logged in Redirect / browse to login page and vice-versa
+-Unsubscribe to the onAuthStateChanged callback
+-Add hardcoded values to the constant files
+-Register TMDB API & create an app & get access token
+-Get Dtata from TMDB now playing movies list API
+-Custom hook for nowPlayingMovies
+-Create movieSlice
+-Update store with movies data
+-Planning for MainContainer & SecondaryContainer
+-Fetch data for trailer video
+-Update store with Trailer video data
+-Enabled the Youtube video and make it autoplay and mute
+-Tailwind Classes to make Main container look awesome
 
 # Features
 
